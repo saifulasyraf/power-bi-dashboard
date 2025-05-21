@@ -6,8 +6,8 @@ This repository contains multiple Power BI practice files that I used to learn d
 
 - Multiple `.pbix` files from my Power BI learning journey
 - Excel (`.xlsx`) files used for data modeling and analysis
-- `Data Professinal Survey Project.pbix` – a complete dashboard project using survey data
-- `Data Professional Survey Project.png` – a screenshot of the final dashboard for the survey project
+- `Data%20Professinal%20Survey%20Project.pbix` – a complete dashboard project using survey data
+- `Data%20Professional%20Survey%20Project.png` – a screenshot of the final dashboard for the survey project
 
 ## 📊 Featured Project: Data Professionals Survey Dashboard
 
@@ -26,7 +26,7 @@ This project visualizes insights from a dataset about data professionals around 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Data Professional Survey Project.PNG)
+![Dashboard Preview](Data%20Professional%20Survey%20Project.PNG)
 
 ## 🚀 How to Use
 
