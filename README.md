@@ -26,7 +26,7 @@ This project visualizes insights from a dataset about data professionals around 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](images/Data Professional Survey Project.png)
+![Dashboard Preview](Data Professional Survey Project.PNG)
 
 ## 🚀 How to Use
 
